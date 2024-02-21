@@ -14,7 +14,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/zelusalda__)
 
 ###Link para meu curriculo
-[José Saldanha (4).pdf](https://github.com/Zelusalda/Zelusalda/files/14363785/Jose.Saldanha.4.pdf)
+
+[Curiculo](https://github.com/Zelusalda/Zelusalda/files/14363785/Jose.Saldanha.4.pdf)
 
 
 
