@@ -15,7 +15,8 @@
 
 ###Link para meu curriculo
 
-[Curiculo](https://github.com/Zelusalda/Zelusalda/files/14363785/Jose.Saldanha.4.pdf)
+[Curriculo](https://github.com/Zelusalda/Zelusalda/files/14363892/Jose.Saldanha.pdf)
+
 
 
 
