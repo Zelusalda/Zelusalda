@@ -13,7 +13,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-luiz-saldanha-1a031b271/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/zelusalda__)
 
-###Link para meu curriculo
+### Link para meu curriculo
 
 [Curriculo](https://github.com/Zelusalda/Zelusalda/files/14363892/Jose.Saldanha.pdf)
 
