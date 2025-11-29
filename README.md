@@ -1,4 +1,4 @@
-👋 Hi, I’m José Luiz Saldanha
+👋 Oi, eu sou José Luiz Saldanha!
 💼 Software Engineer
 
 Especializado no desenvolvimento de sistemas de alta performance utilizando Java, C++ e Python.
