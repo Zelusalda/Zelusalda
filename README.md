@@ -10,7 +10,7 @@ Também faço parte da **Diretoria de Ensino da CALABOTICS**, liga de robótica 
 
 Atualmente, também venho aprofundando meus conhecimentos em **Inteligência Artificial e Visão Computacional**.
 
-## 🚀 Áreas de Interesse
+## Áreas de Interesse
 
 * Engenharia de Software
 * Desenvolvimento Full Stack
